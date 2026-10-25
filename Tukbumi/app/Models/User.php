@@ -1,5 +1,7 @@
 <?php
 
+// TEST GITHUB SYNC - 22 Oktober 2026
+
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
